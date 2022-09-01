@@ -1,0 +1,7 @@
+
+###View all songs
+GET http://127.0.0.1:3000/songs.json
+
+
+###View one song
+GET http://127.0.0.1:3000/songs/2.json
